@@ -1,6 +1,6 @@
-                                                👨‍💻 About Me :
+                                                       👨‍💻 About Me :
 
-Hi there I'm Danny👋
+                                                       Hi I'm Danny👋
 
 - 🔭 I’m currently working on a new Frontend Projects
 - 🌱 I’m currently studying at Uni Duisburg-Essen
