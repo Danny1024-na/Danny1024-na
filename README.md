@@ -18,4 +18,4 @@ https://user-images.githubusercontent.com/69569589/197292530-67bee5d8-2b47-44f6-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danny1024-na&layout=compact)](https://github.com/Danny1024-na)
 
-
+<a href="https://www.facebook.com/aboaldoon1024/"  target="blank"><img align=”left” src=”https://raw.githubusercontent.com/Danny1024-na/Danny1024-na/main/Photos/facebook.png" alt=”icon | LinkedIn” width=”21px”/></a>
