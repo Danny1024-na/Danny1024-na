@@ -14,9 +14,6 @@ https://user-images.githubusercontent.com/69569589/197292530-67bee5d8-2b47-44f6-
 - 📫 How to reach me: danina964@gmail.com
 - 😄 Pronouns: excited
 
-<!--
-**Danny1024-na/Danny1024-na** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Danny1024-na)](https://github.com/Danny1024-na)
 
-Here are some ideas to get you started:
-
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danny1024-na&layout=compact)](https://github.com/Danny1024-na)
