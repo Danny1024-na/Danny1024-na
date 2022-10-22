@@ -1,6 +1,6 @@
-                             ![](https://github.com/Danny1024-na/Danny1024-na/blob/main/My%20Gif.gif)
+   ![](https://github.com/Danny1024-na/Danny1024-na/blob/main/My%20Gif.gif)
 
-
+ 
                                                        👨‍💻 About Me:
                                                       Hi I'm Danny👋
 
