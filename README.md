@@ -2,7 +2,7 @@
 
 https://user-images.githubusercontent.com/69569589/197298173-4764f7dd-70de-49b9-bd46-568120ab2926.mp4
 
-![](https://github.com/Danny1024-na/main/Danny1024-na/My Gif.gif)
+![](https://github.com/Danny1024-na/Danny1024-na/blob/main/My%20Gif.gif)
 
 
                                                        👨‍💻 About Me:
