@@ -2,6 +2,7 @@
 
  
  👨‍💻 About Me:
+ 
 Hi I'm Danny👋
 
 - 🔭 I’m currently working on a new Frontend Projects
