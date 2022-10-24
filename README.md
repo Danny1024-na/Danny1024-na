@@ -1,8 +1,8 @@
 ![](https://github.com/Danny1024-na/Danny1024-na/blob/main/My%20Gif.gif)
 
  
-                                                       👨‍💻 About Me:
-                                                      Hi I'm Danny👋
+ 👨‍💻 About Me:
+Hi I'm Danny👋
 
 - 🔭 I’m currently working on a new Frontend Projects
 - 🌱 I’m currently studying at Uni Duisburg-Essen
