@@ -5,7 +5,7 @@
  
 Hi I'm Danny👋
 
-- 🔭 I’m currently working on a new Frontend Projects
+- 🔭 I’m currently working on a new Python skills
 - 🌱 I’m currently studying at Uni Duisburg-Essen
 - 📖 I’m currently learning Python , Html ,Css and Javascript.
 - ❓ Ask me about Java.
