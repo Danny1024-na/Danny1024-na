@@ -16,7 +16,7 @@ Hi I'm Danny👋
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danny1024-na&layout=compact)](https://github.com/Danny1024-na)
 
-
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="100">
 #️⃣ Follow me:
 
 <a href="https://www.linkedin.com/in/danny-1024-na/"  target="blank">
