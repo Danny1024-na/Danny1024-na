@@ -12,6 +12,8 @@ Hi I'm Danny👋
 - 📫 How to reach me: danina964@gmail.com
 - 😄 Pronouns: excited
 
+![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.CharalambosIoannou)
+
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Danny1024-na)](https://github.com/Danny1024-na)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danny1024-na)](https://github.com/Danny1024-na/github-readme-stats)
