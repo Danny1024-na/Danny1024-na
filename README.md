@@ -14,12 +14,12 @@ Hi I'm Danny👋
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Danny1024-na.Danny1024-na)
 
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Danny1024-na&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Danny1024-na&show_icons=true&theme=tokyonight)
 
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Danny1024-na)](https://github.com/Danny1024-na)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danny1024-na)](https://github.com/Danny1024-na/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danny1024-na)](https://github.com/Danny1024-na/github-readme-stats)
 
 #️⃣ Follow me:
 
