@@ -7,7 +7,7 @@ Hi I'm Danny👋
 
 - 🔭 I’m currently working on a new Python skills
 - 🌱 I’m currently studying at Uni Duisburg-Essen
-- 📖 I’m currently learning Python , Html ,Css and Javascript.
+- 📖 I’m currently learning Django.
 - ❓ Ask me about Java.
 - 📫 How to reach me: danina964@gmail.com
 - 😄 Pronouns: excited
