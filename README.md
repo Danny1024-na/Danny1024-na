@@ -24,8 +24,5 @@ Hi I'm Danny👋
   <img align="left" src="https://raw.githubusercontent.com/Danny1024-na/Danny1024-na/main/Photos/linkedin.png" alt=icon | LinkedIn width="21px"/>
   </a>
 <a href="https://twitter.com/dannyna1024"  target="blank">
-  <img align="left" src="https://raw.githubusercontent.com/Danny1024-na/Danny1024-na/main/Photos/twitter.png" alt=icon | LinkedIn width="21px"/>
-  </a>
-<a href="https://www.instagram.com/danny_nasra_1024/"  target="blank">
-  <img align="left" src="https://raw.githubusercontent.com/Danny1024-na/Danny1024-na/main/Photos/instagram.png" alt=icon | LinkedIn width="21px"/>
+  <img align="left" src="https://raw.githubusercontent.com/Danny1024-na/Danny1024-na/main/Photos/twitter.png" alt=icon | twitter width="21px"/>
   </a>
