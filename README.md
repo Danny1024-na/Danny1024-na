@@ -15,7 +15,6 @@ Hi I'm Danny👋
 ![](https://visitor-badge.laobi.icu/badge?page_id=Danny1024-na.Danny1024-na)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danny1024-na&count_private=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danny1024-na&show_icons=true)
 
 #️⃣ Follow me:
 
