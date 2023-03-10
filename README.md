@@ -5,9 +5,9 @@
  
 Hi I'm Danny👋
 
-- 🔭 I’m currently working on a new Python skills
+- 🔭 I’m currently working on a new Django skills
 - 🌱 I’m currently studying at Uni Duisburg-Essen
-- 📖 I’m currently learning Django.
+- 📖 I’m currently learning Python.
 - ❓ Ask me about Java.
 - 📫 How to reach me: danina964@gmail.com
 - 😄 Pronouns: excited
