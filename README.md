@@ -3,7 +3,7 @@
  
  👨‍💻 About Me:
  
-Hi I'm Danny👋
+Hi I'm Danny 👋
 
 - 🔭 I’m currently working on a new project.
 - 🌱 I’m currently studying at Uni Duisburg-Essen
