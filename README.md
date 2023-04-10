@@ -9,7 +9,6 @@ Hi I'm Danny 👋
 - 🌱 I’m currently studying at Uni Duisburg-Essen
 - 📖 I’m currently learning a new Django skills.
 - ❓ Ask me about Java.
-- 📫 How to reach me: danina964@gmail.com
 - 😄 Pronouns: excited
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Danny1024-na.Danny1024-na)
