@@ -6,8 +6,8 @@
 Hi I'm Danny 👋 
 
 - 🔭 I’m currently working on a new project.
-- 🌱 I’m currently studying at Uni Duisburg-Essen
-- 📖 I’m currently learning a new Django skills.
+- 🌱, studying at Uni Duisburg-Essen
+- 📖 and learning a new Django skills.
 - ❓ Ask me about Java.
 - 😄 Pronouns: excited
 
